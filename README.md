@@ -1,4 +1,4 @@
-# FootballAnalysis
+# Football Analysis aka 12th Person
 
 ## Inspiration
 
